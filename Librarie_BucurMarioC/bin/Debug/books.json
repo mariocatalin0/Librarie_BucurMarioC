@@ -1,0 +1,258 @@
+[
+  {
+    "Title": "Harry Potter And The Goblet Of Fire",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 2000,
+    "Pages": 636,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1999,
+    "Pages": 435,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1998,
+    "Pages": 341,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy",
+    "Year": 1954,
+    "Pages": 1178,
+    "IsAvailable": true
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Classic",
+    "Year": 1960,
+    "Pages": 281,
+    "IsAvailable": true
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopian",
+    "Year": 1949,
+    "Pages": 328,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance",
+    "Year": 1813,
+    "Pages": 432,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Classic",
+    "Year": 1925,
+    "Pages": 180,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Goblet Of Fire",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 2000,
+    "Pages": 636,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1999,
+    "Pages": 435,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1998,
+    "Pages": 341,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy",
+    "Year": 1954,
+    "Pages": 1178,
+    "IsAvailable": true
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Classic",
+    "Year": 1960,
+    "Pages": 281,
+    "IsAvailable": true
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopian",
+    "Year": 1949,
+    "Pages": 328,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance",
+    "Year": 1813,
+    "Pages": 432,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Classic",
+    "Year": 1925,
+    "Pages": 180,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Goblet Of Fire",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 2000,
+    "Pages": 636,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1999,
+    "Pages": 435,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1998,
+    "Pages": 341,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy",
+    "Year": 1954,
+    "Pages": 1178,
+    "IsAvailable": true
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Classic",
+    "Year": 1960,
+    "Pages": 281,
+    "IsAvailable": true
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopian",
+    "Year": 1949,
+    "Pages": 328,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance",
+    "Year": 1813,
+    "Pages": 432,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Classic",
+    "Year": 1925,
+    "Pages": 180,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Goblet Of Fire",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 2000,
+    "Pages": 636,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1999,
+    "Pages": 435,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter And The Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1998,
+    "Pages": 341,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy",
+    "Year": 1954,
+    "Pages": 1178,
+    "IsAvailable": true
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Classic",
+    "Year": 1960,
+    "Pages": 281,
+    "IsAvailable": true
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopian",
+    "Year": 1949,
+    "Pages": 328,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance",
+    "Year": 1813,
+    "Pages": 432,
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Classic",
+    "Year": 1925,
+    "Pages": 180,
+    "IsAvailable": true
+  }
+]

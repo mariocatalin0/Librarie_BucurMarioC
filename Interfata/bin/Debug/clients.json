@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Popescu Ion",
+    "Email": "popescu.ion@email.com",
+    "Phone": "0722123456",
+    "BorrowedBookTitles": []
+  },
+  {
+    "Name": "Ionescu Maria",
+    "Email": "maria.ionescu@email.com",
+    "Phone": "0733123456",
+    "BorrowedBookTitles": []
+  },
+  {
+    "Name": "Georgescu Andrei",
+    "Email": "andrei.g@email.com",
+    "Phone": "0744123456",
+    "BorrowedBookTitles": []
+  },
+  {
+    "Name": "Epure Alex",
+    "Email": "epure.alex@gmail.com",
+    "Phone": "075648782",
+    "BorrowedBookTitles": []
+  }
+]

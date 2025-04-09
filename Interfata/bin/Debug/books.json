@@ -1,0 +1,50 @@
+[
+  {
+    "Title": "Amintiri din copil\u0103rie",
+    "Author": "Ion Creang\u0103",
+    "Genre": "Literatur\u0103 rom\u00E2n\u0103",
+    "Year": 1892,
+    "Pages": 200,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Moara cu noroc",
+    "Author": "Ioan Slavici",
+    "Genre": "Nuvel\u0103",
+    "Year": 1881,
+    "Pages": 150,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Baltagul",
+    "Author": "Mihail Sadoveanu",
+    "Genre": "Roman",
+    "Year": 1930,
+    "Pages": 250,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Ion",
+    "Author": "Liviu Rebreanu",
+    "Genre": "Roman",
+    "Year": 1920,
+    "Pages": 400,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Enigma Otiliei",
+    "Author": "George C\u0103linescu",
+    "Genre": "Roman",
+    "Year": 1938,
+    "Pages": 350,
+    "IsAvailable": true
+  },
+  {
+    "Title": "Solaris",
+    "Author": "Stanislaw Lem",
+    "Genre": "Science Fiction",
+    "Year": 1980,
+    "Pages": 260,
+    "IsAvailable": true
+  }
+]
